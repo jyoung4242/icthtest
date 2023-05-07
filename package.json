@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc && vite build",
+    "build": "vite build",
     "dev": "vite",
     "preview": "vite preview"
   },
@@ -15,7 +15,7 @@
   "dependencies": {
     "@peasy-lib/peasy-assets": "^0.2.3",
     "@peasy-lib/peasy-input": "^0.2.0",
-    "@peasy-lib/peasy-ui": "0.9.29"
+    "@peasy-lib/peasy-ui": "0.9.30"
   },
   "devDependencies": {
     "json": "^11.0.0",
